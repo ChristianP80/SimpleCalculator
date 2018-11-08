@@ -1,0 +1,6 @@
+/Users/christianpersson/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/christianpersson/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/christianpersson/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csprojAssemblyReference.cache
+/Users/christianpersson/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/christianpersson/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/Users/christianpersson/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
